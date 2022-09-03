@@ -1,0 +1,15 @@
+K8s Commands:
+------------
+
+    kubectl apply -f pod.yml
+    kubectl create -f pod.yml
+    kubectl get replicaset
+    kubectl get pods
+    kubectl describe pod myapp
+    kubectl create -f deployment.yml --record
+    kubectl get deployments
+    kubectl describe deployment myapp
+    kubectl rollout history deployment_name
+    kubectl rollout undo deployment_name
+    
+
