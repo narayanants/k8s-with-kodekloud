@@ -29,4 +29,3 @@ PODS:
 
     - Smallest unit of K8s
     - Single instance of the application
-
