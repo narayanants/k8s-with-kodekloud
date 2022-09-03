@@ -1,0 +1,32 @@
+Introduction to K8s:
+--------------------
+    
+    - Intro to K8s
+    - PODS
+
+
+    K8s Architecture:
+    ----------------
+
+        Master:
+        ------
+
+            - API Server
+            - Scheduler
+            - etcd
+            - Control Manager
+            
+        Worker:
+        --------
+
+            - Kube-proxy
+            - Kubelet
+            - Container Runtime
+
+
+PODS:
+----
+
+    - Smallest unit of K8s
+    - Single instance of the application
+
