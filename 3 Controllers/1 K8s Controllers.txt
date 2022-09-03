@@ -1,0 +1,7 @@
+K8s Controllers:
+----------------
+
+    - Replication Control
+    - Replica Sets
+
+    
