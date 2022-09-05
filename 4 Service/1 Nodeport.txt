@@ -1,0 +1,12 @@
+K8s Services:
+------------
+
+    - communication between different components
+    - Services listens to a port and directs traffic
+    - 
+
+     TargetPort
+     Port
+     NodePort - 30000 - 32767
+
+     
